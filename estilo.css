@@ -1,0 +1,9 @@
+body {
+  font-family: helvetica neue;
+}
+#spoiler {
+  padding: 100px;
+  background: #000000;
+  color:  #000000;
+  font-size: 36px;
+}
